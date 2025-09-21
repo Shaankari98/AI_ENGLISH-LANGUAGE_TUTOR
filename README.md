@@ -1,8 +1,8 @@
-#📝 AI Language Tutor (Intermediate Level)
+# 📝 AI Language Tutor (Intermediate Level)
 
 Unlock the power of AI to improve your English writing instantly! This interactive web app helps you correct grammar, understand mistakes, rewrite text, and get fluency feedback — all in real-time. Perfect for students, job seekers, and language learners who want to practice and improve efficiently.
 
-#🚀 Features
+# 🚀 Features
 
 Grammar & Spelling Correction
 
@@ -36,7 +36,7 @@ Intuitive web interface with text input, buttons for analysis and rewriting, and
 
 Real-time interaction ensures an engaging learning experience.
 
-#🎯 Use Cases
+# 🎯 Use Cases
 
 Students: Improve essays, assignments, and practice writing.
 
@@ -46,7 +46,7 @@ Language Learners: Strengthen grammar, vocabulary, and writing fluency.
 
 Educators: Demonstrate AI-assisted language learning in classrooms.
 
-#🛠 Tech Stack
+# 🛠 Tech Stack
 
 Frontend & UI: Streamlit
 
@@ -56,7 +56,7 @@ Programming Language: Python
 
 Optional: .env for storing API keys securely
 
-#📈 How It Works
+# 📈 How It Works
 
 User enters text in the input box.
 
@@ -72,7 +72,7 @@ User can choose to rewrite the text: Simplify, Formalize, or Shorten.
 
 The interface displays results with color-coded cards for clarity and readability.
 
-#🔗 Future Enhancements
+# 🔗 Future Enhancements
 
 Vocabulary suggestions and usage examples
 
